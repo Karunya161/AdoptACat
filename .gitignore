@@ -1,0 +1,4 @@
+.env
+seen_cats.json
+__pycache__/
+*.pyc

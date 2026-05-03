@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install -r \"d:\\\\CatHunt\\\\requirements.txt\")",
+      "WebFetch(domain:spcala.com)",
+      "WebFetch(domain:www.shelterluv.com)"
+    ]
+  }
+}
